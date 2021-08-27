@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "pullover",
+      "cost": 20,
+      "department": "clothes",
+      "category": "upper"
+    },
+    {
+      "id": 2,
+      "name": "bluse",
+      "cost": 26,
+      "department": "clothes",
+      "category": "upper"
+    },
+    {
+      "name": "short",
+      "cost": "23",
+      "department": "clothes",
+      "category": "accesories",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "laptop",
+      "cost": 3000,
+      "department": "technologies",
+      "category": "laptops & accesories"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 11 Pro",
+      "cost": 900,
+      "department": "technologies",
+      "category": "celphones"
+    }
+  ],
+  "departments": [
+    {
+      "id": 10,
+      "name": "clothes"
+    },
+    {
+      "id": 20,
+      "name": "technologies"
+    },
+    {
+      "name": "vehicle",
+      "id": 21
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "upper",
+      "department": "clothes"
+    },
+    {
+      "name": "laptops",
+      "department": "technologies",
+      "id": 21
+    },
+    {
+      "id": 22,
+      "name": "celphones",
+      "department": "technologies"
+    },
+    {
+      "name": "accesories",
+      "department": "clothes",
+      "id": 24
+    },
+    {
+      "name": "PC-items",
+      "department": "technologies",
+      "id": 25
+    },
+    {
+      "name": "car",
+      "department": "vehicle",
+      "id": 26
+    },
+    {
+      "name": "bike",
+      "department": "vehicle",
+      "id": 27
+    }
+  ]
+}
